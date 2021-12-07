@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.825" height="13.85" viewBox="0 0 17.825 13.85">
+    <defs>
+        <style>
+            .cls-4{fill:#9ba9b8;stroke:#9ba9b8;stroke-width:.4px}
+        </style>
+    </defs>
+    <g id="Group_8789" transform="translate(-31.9 -443.15)">
+        <path id="Fill_1" fill="#e4e3e5" d="M15 1.5C15 2.328 11.642 3 7.5 3S0 2.328 0 1.5 3.358 0 7.5 0 15 .672 15 1.5" transform="translate(33 454)"/>
+        <g id="Group_8784" transform="translate(4 24)">
+            <g id="Group_8777" transform="translate(28 419.25)">
+                <g id="Group_8776">
+                    <path id="Path_18767" fill="#363954" stroke="#363954" stroke-width="0.2px" d="M16.156 80H1.469A1.47 1.47 0 0 0 0 81.469v8.812a1.47 1.47 0 0 0 1.469 1.469h14.687a1.47 1.47 0 0 0 1.469-1.469v-8.812A1.47 1.47 0 0 0 16.156 80zm.881 10.281a.881.881 0 0 1-.881.881H1.469a.881.881 0 0 1-.881-.881v-8.812a.881.881 0 0 1 .881-.881h14.687a.881.881 0 0 1 .881.881z" transform="translate(0 -80)"/>
+                </g>
+            </g>
+            <g id="Group_8785" transform="translate(0 .6)">
+                <g id="Group_8779" transform="translate(30.917 420.8)">
+                    <g id="Group_8778">
+                        <path id="Path_18768" fill="#9ba9b8" stroke="#9ba9b8" stroke-width="0.5px" d="M43.946 112.106a.234.234 0 0 0-.313-.075l-5 2.875a1.179 1.179 0 0 1-1.173 0l-5-2.875a.233.233 0 0 0-.312.08.214.214 0 0 0 .077.295l5 2.875a1.652 1.652 0 0 0 1.642 0l5-2.875a.214.214 0 0 0 .079-.3z" transform="translate(-32.122 -112)"/>
+                    </g>
+                </g>
+                <g id="Group_8781" transform="translate(30 422.4)">
+                    <g id="Group_8780">
+                        <path id="Path_18769" d="M32.243 144a.229.229 0 0 0-.243.213v5.532a.245.245 0 0 0 .486 0v-5.532a.229.229 0 0 0-.243-.213z" class="cls-4" transform="translate(-32 -144)"/>
+                    </g>
+                </g>
+                <g id="Group_8783" transform="translate(43.4 422.4)">
+                    <g id="Group_8782">
+                        <path id="Path_18770" d="M432.263 144a.242.242 0 0 0-.263.213v5.534a.269.269 0 0 0 .526 0v-5.534a.242.242 0 0 0-.263-.213z" class="cls-4" transform="translate(-432 -144)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

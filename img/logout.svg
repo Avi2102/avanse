@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="14" viewBox="0 0 15 14">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#282c47;stroke-width:1.2px;stroke-linecap:round;stroke-linejoin:round}
+        </style>
+    </defs>
+    <g id="Group_9167" transform="translate(-20 -524)">
+        <g id="Rectangle_3694" fill="none" stroke="#282c47" stroke-width="1.2px" transform="translate(20 524)">
+            <rect width="15" height="14" stroke="none" rx="2"/>
+            <rect width="13.8" height="12.8" x=".6" y=".6" rx="1.4"/>
+        </g>
+        <g id="Group_9166" transform="translate(-.395 -.913)">
+            <path id="Path_20142" d="M10090.394 2446.162h5.2" class="cls-2" transform="translate(-10066 -1914)"/>
+            <path id="Path_20143" d="M10095.6 2443.322l2.108 2.367-2.108 2.064" class="cls-2" transform="translate(-10066.719 -1913.409)"/>
+        </g>
+    </g>
+</svg>

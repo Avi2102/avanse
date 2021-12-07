@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="call-artwork" width="35" height="35" viewBox="0 0 35 35">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#eaf5ff"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#ccfeff"/>
+        </linearGradient>
+        <clipPath id="clip-path">
+            <circle id="Mask" cx="17.5" cy="17.5" r="17.5" fill="url(#linear-gradient)"/>
+        </clipPath>
+        <style>
+            .cls-4{fill:#00b3b5}
+        </style>
+    </defs>
+    <circle id="Mask-2" cx="17.5" cy="17.5" r="17.5" fill="url(#linear-gradient-2)"/>
+    <g id="call-artwork-2" clip-path="url(#clip-path)">
+        <g id="Group_8" transform="translate(6.39 6.745)">
+            <path id="Fill_1" d="M11.121 0a11.121 11.121 0 1 0 6.1 20.421.832.832 0 0 0 .374-.723 3.82 3.82 0 0 0-1.369-2.6 1.412 1.412 0 0 0 .121-.156l-2.782-4.1a4.9 4.9 0 0 0-1.45.86 5.116 5.116 0 0 0-1.029 1.416 5.8 5.8 0 0 1-3.305-5.7 4.73 4.73 0 0 0 1.8-.177A4.538 4.538 0 0 0 11 8.411Q10.091 6.4 8.843 3.942a4.888 4.888 0 0 0-1.349.574 5.437 5.437 0 0 0-1.678 1.509 5.2 5.2 0 0 0-.877 1.965 7.424 7.424 0 0 0-.126 2.218 8.71 8.71 0 0 0 .54 2.319 10.652 10.652 0 0 0 .725 1.552 14.215 14.215 0 0 0 1.1 1.619 7.89 7.89 0 0 0 2.336 2.049 6.152 6.152 0 0 0 2.782.817 5.217 5.217 0 0 0 2.418-.489 2.366 2.366 0 0 1 1.123 1.249 9.459 9.459 0 1 1 4.746-8.2.832.832 0 0 0 1.663 0A11.134 11.134 0 0 0 11.121 0" class="cls-4"/>
+            <path id="Fill_4" d="M.809 0L0 .051l2.057 4.3.54-.523a2.661 2.661 0 0 0-.359-2.343C1.485.082.809 0 .809 0" class="cls-4" transform="translate(9.636 3.673)"/>
+            <path id="Fill_6" d="M.725 0L0 .22l2.7 3.93.456-.675a2.721 2.721 0 0 0-.626-2.324C1.633-.086.725 0 .725 0" class="cls-4" transform="translate(14.307 12.373)"/>
+        </g>
+    </g>
+</svg>

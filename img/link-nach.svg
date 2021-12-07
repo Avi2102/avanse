@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58" height="45.004" viewBox="0 0 58 45.004">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{fill:#00b3b5}.cls-3{fill:#168794}.cls-6{stroke:#fff;fill:none;stroke-width:1.5px}
+        </style>
+    </defs>
+    <g id="Group_9143" transform="translate(-27 -85.034)">
+        <g id="bank" transform="translate(27 85.035)">
+            <path id="Path_19235" d="M75.035 175.3h32.075v23.335H75.035zm0 0" class="cls-1" transform="translate(-68.424 -159.859)"/>
+            <path id="Path_19236" d="M406.07 190.754h5.445v20.353h-5.445zm0 0" class="cls-2" transform="translate(-370.29 -173.947)"/>
+            <path id="Path_19237" d="M49.581 218.118h-5.444V198.84h5.445zm0 0" class="cls-2" transform="translate(-40.248 -181.32)"/>
+            <g id="Group_9139" transform="translate(2.334 15.057)">
+                <path id="Path_19238" d="M388.414 170.891h8.556v1.945a1.555 1.555 0 0 1-1.555 1.555h-5.445a1.555 1.555 0 0 1-1.556-1.555zm0 0" class="cls-3" transform="translate(-356.523 -170.891)"/>
+                <path id="Path_19239" d="M389.97 404.82h5.445a1.556 1.556 0 0 1 1.555 1.556v1.945h-8.556v-1.945a1.556 1.556 0 0 1 1.556-1.556zm0 0" class="cls-3" transform="translate(-356.523 -384.208)"/>
+                <path id="Path_19240" d="M33.485 174.391H28.04a1.555 1.555 0 0 1-1.555-1.555v-1.945h8.555v1.945a1.555 1.555 0 0 1-1.555 1.555zm0 0" class="cls-3" transform="translate(-26.484 -170.891)"/>
+                <path id="Path_19241" d="M35.04 408.321h-8.556v-1.945a1.556 1.556 0 0 1 1.555-1.556h5.445a1.556 1.556 0 0 1 1.556 1.556zm0 0" class="cls-3" transform="translate(-26.484 -384.208)"/>
+            </g>
+            <path id="Path_19242" d="M17.656 128.52h42.78v3.344a.778.778 0 0 1-.778.778H18.434a.778.778 0 0 1-.778-.778zm0 0" class="cls-3" transform="translate(-16.101 -117.196)"/>
+            <path id="Path_19243" d="M18.434 440.133h41.225a.778.778 0 0 1 .778.778v3.889H17.656v-3.889a.778.778 0 0 1 .778-.778zm0 0" class="cls-3" transform="translate(-16.101 -401.352)"/>
+            <path id="Path_19244" d="M44.336 12.335H.778A.778.778 0 0 1 0 11.557V7.463a.778.778 0 0 1 .545-.743L21.865.1a2.328 2.328 0 0 1 1.383 0l21.321 6.62a.778.778 0 0 1 .545.743v4.094a.778.778 0 0 1-.778.778zm0 0" class="cls-2"/>
+            <path id="Path_19245" d="M35.309 42.179v-.041l19.212-5.963a.778.778 0 0 1 .461 0L74.2 42.138v.041zm0 0" class="cls-3" transform="translate(-32.197 -32.956)"/>
+            <path id="Path_19246" fill="#fec10d" d="M176.01 219.17a8.556 8.556 0 1 1-8.556-8.556 8.556 8.556 0 0 1 8.556 8.556zm0 0" transform="translate(-144.897 -192.056)"/>
+            <g id="Group_9140" transform="translate(-.829)">
+                <path id="Path_19247" d="M224.631 252.148c-2.176 0-3.94-1.393-3.94-3.111s1.764-3.111 3.94-3.111 3.94 1.393 3.94 3.111a1.012 1.012 0 0 1-1.97 0 2.025 2.025 0 1 0-1.97 1.556.8.8 0 1 1 0 1.556zm0 0" class="cls-1" transform="translate(-201.246 -224.257)"/>
+                <path id="Path_19248" d="M224.631 305.113c-2.176 0-3.94-1.393-3.94-3.111a1.012 1.012 0 0 1 1.97 0 2.025 2.025 0 1 0 1.97-1.556.8.8 0 1 1 0-1.556c2.176 0 3.94 1.393 3.94 3.112s-1.764 3.111-3.94 3.111zm0 0" class="cls-1" transform="translate(-201.246 -272.555)"/>
+                <path id="Path_19249" d="M247.95 249.543a.778.778 0 0 1-.778-.778v-10.889a.778.778 0 0 1 1.556 0v10.889a.778.778 0 0 1-.778.778zm0 0" class="cls-1" transform="translate(-224.564 -216.207)"/>
+            </g>
+            <path id="Path_19250" d="M.778 475.441h43.558a.778.778 0 0 1 .778.778v1.556a.778.778 0 0 1-.778.778H.778a.778.778 0 0 1-.778-.778v-1.556a.778.778 0 0 1 .778-.778zm0 0" class="cls-2" transform="translate(0 -433.55)"/>
+        </g>
+        <g id="Group_9142" transform="translate(3 28)">
+            <g id="Ellipse_542" fill="#f36f21" stroke="#fff" stroke-width="2px" transform="translate(62 82)">
+                <circle cx="10" cy="10" r="10" stroke="none"/>
+                <circle cx="10" cy="10" r="9" fill="none"/>
+            </g>
+            <g id="Group_9141" transform="translate(-1.683 -1.683)">
+                <path id="Line_149" d="M0 0L8 0" class="cls-6" transform="translate(69.683 93.683)"/>
+                <path id="Line_150" d="M0 0L8.365 0" class="cls-6" transform="rotate(90 -7.909 81.592)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="39" viewBox="0 0 50 39">
+    <defs>
+        <style>
+            .cls-2{fill:#3a3a3b}
+        </style>
+    </defs>
+    <g id="Group_8983" transform="translate(-27 -146)">
+        <ellipse id="Ellipse_500" cx="11" cy="2.5" fill="#e4e3e5" rx="11" ry="2.5" transform="translate(55 180)"/>
+        <g id="sign" transform="translate(27 146)">
+            <g id="Group_8850" transform="translate(16.997)">
+                <path id="Path_18845" d="M211.922 256v18.987H208V256" class="cls-2" transform="translate(-208 -237.07)"/>
+                <path id="Path_18846" fill="#1b1b1c" d="M208 0h3.922v2.615H208z" transform="translate(-208)"/>
+                <path id="Path_18847" d="M208 128h3.922v4.24H208z" class="cls-2" transform="translate(-208 -119.166)"/>
+            </g>
+            <path id="Path_18848" fill="#fec10d" d="M181.573 39.845H160V32h21.573l3.269 3.922z" transform="translate(-146.925 -30.385)"/>
+            <path id="Path_18849" fill="#16a1b1" d="M17 160H3.269L0 163.922l3.269 3.922h21.573V160z" transform="translate(0 -147.925)"/>
+        </g>
+        <g id="home" transform="translate(57 158.623)">
+            <g id="Path_18850" fill="#00b3b5" stroke="none">
+                <path d="M95.207 32.892c-.763-.592-2.422-1.96-4.06-3.845-1.288-1.482-2.312-2.987-3.044-4.476-.898-1.827-1.353-3.632-1.353-5.364 0-4.663 3.794-8.457 8.457-8.457s8.457 3.794 8.457 8.457c0 1.732-.455 3.537-1.353 5.364-.731 1.489-1.755 2.994-3.043 4.476-1.64 1.884-3.298 3.253-4.06 3.845z" transform="translate(-86 -10)"/>
+                <path fill="#168794" d="M95.207 11.5c-4.25 0-7.707 3.457-7.707 7.707 0 5.842 5.53 10.943 7.707 12.725 2.178-1.783 7.707-6.883 7.707-12.725 0-4.25-3.457-7.707-7.707-7.707m0-1.5c5.085 0 9.207 4.122 9.207 9.207 0 8.124-9.207 14.623-9.207 14.623S86 27.331 86 19.207C86 14.122 90.122 10 95.207 10z" transform="translate(-86 -10)"/>
+            </g>
+            <circle id="Ellipse_499" cx="3.779" cy="3.779" r="3.779" fill="#fff" stroke="#fff" transform="translate(5.542 5.453)"/>
+        </g>
+    </g>
+</svg>

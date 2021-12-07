@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en" class="height100">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Help Center - Avanse</title>
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="height100">
+    <div class="secondary-header">
+        <div class="container">
+            <span class="logo">Help Center</span>
+            <a href="javascript:void(0)" onclick="window.history.back()" class="close-btn">
+                <img src="img/close-dark.svg" alt="" width="13">
+            </a>
+        </div>
+    </div>
+    <div class="quaries fixed-pane height100">
+        <div class="container">
+            <div class="queries-filter">
+                <ul>
+                    <li class="has-dropdown">
+                        <span data-toggle="modal" data-target="#category">Category</span>
+                    </li>
+                    <li class="has-dropdown">
+                        <span data-toggle="modal" data-target="#priority">Priority</span>
+                    </li>
+                    <li>
+                        <span>Date Range</span>
+                    </li>
+                    <li>
+                        <span>Status</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="queries">
+                <div class="query">
+                    <div class="query-header">
+                        <strong>Ticket No. #232355 </strong>
+                        <span class="badges badge-success">Resolved</span>
+                    </div>
+                    <div class="query-body">
+                        <span class="query-detail">We will see if you’ve already been here or new here help you accordingly.</span>
+                        <span class="query-timing">Fri, 19 Jun, 2020<br>12:23 pm</span>
+                    </div>
+                </div>
+                <div class="query">
+                    <div class="query-header">
+                        <strong>Ticket No. #568984 </strong>
+                        <span class="badges badge-warning">Pending</span>
+                    </div>
+                    <div class="query-body">
+                        <span class="query-detail">We will see if you’ve already been here or new here help you accordingly.</span>
+                        <span class="query-timing">Fri, 19 Jun, 2020<br>12:23 pm</span>
+                    </div>
+                </div>
+                <div class="query">
+                    <div class="query-header">
+                        <strong>Ticket No. #598865 </strong>
+                        <span class="badges badge-warning">Pending</span>
+                    </div>
+                    <div class="query-body">
+                        <span class="query-detail">We will see if you’ve already been here or new here help you accordingly.</span>
+                        <span class="query-timing">Fri, 19 Jun, 2020<br>12:23 pm</span>
+                    </div>
+                </div>
+            </div>
+            <div class="container bottom-fixed-pane">
+                <a href="new-query.html" class="btn btn-primary btn-full-width">Create New <img src="img/arrow.svg" width="17"></a>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade filter-modal" id="category" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <span data-dismiss="modal" aria-label="Close" class="close close-btn">
+                        <img src="img/close-dark.svg" alt="" width="13">
+                    </span>
+                    <h5 class="modal-title" id="categoryLabel">Category</h5>
+                    <span class="clear">Clear All</span>
+                </div>
+                <div class="modal-body">
+                    <div class="filter-list">
+                        <input type="checkbox" name="" id="" checked>
+                        <label for="">Data</label>
+                    </div>
+                    <div class="filter-list">
+                        <input type="checkbox" name="" id="">
+                        <label for="">Document</label>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <a href="new-query.html" type="button" class="btn btn-primary">Apply</a>
+                </div>
+            </div>
+        </div>
+      </div>
+      <div class="modal fade filter-modal" id="priority" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <span data-dismiss="modal" aria-label="Close" class="close close-btn">
+                            <img src="img/close-dark.svg" alt="" width="13">
+                        </span>
+                        <h5 class="modal-title" id="priorityLabel">Priority</h5>
+                        <span class="clear">Clear All</span>
+                    </div>
+                    <div class="modal-body">
+                        <div class="filter-list">
+                            <input type="checkbox" name="" id="" checked>
+                            <label for="">Data</label>
+                        </div>
+                        <div class="filter-list">
+                            <input type="checkbox" name="" id="">
+                            <label for="">Document</label>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        <a href="new-query.html" type="button" class="btn btn-primary">Apply</a>
+                    </div>
+                </div>
+            </div>
+      </div>
+    <script src="js/jquery-3.2.1.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

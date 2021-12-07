@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en" class="height100">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Link e-Nach - Avanse</title>
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="height100">
+    <header class="main-header">
+        <div class="container">
+            <div class="top-pane">
+                <div class="back-arrow">
+                    <a href="my-loan-applications.html">
+                        <img src="img/back-arrow.svg" alt="">
+                    </a>
+                </div>
+                <a href="index.html" class="logo"><img src="img/logo.png" alt=""></a>
+                <a href="no-queries.html" class="contact-icon"><img src="img/call.svg" alt=""></a>
+            </div>
+            <div class="progress-step">
+                <ul>
+                    <li class="selected">
+                        <span class="step">
+                            <span class="step-title">Check  Eligibility</span>
+                        </span>
+                    </li>
+                    <li class="selected">
+                        <span class="step">
+                            <span class="step-title">Applicant Details</span>
+                        </span>
+                    </li>
+                    <li class="selected">
+                        <span class="step">
+                            <span class="step-title">Income Verification</span>
+                        </span>
+                    </li>
+                    <li class="selected">
+                        <span class="step">
+                            <span class="step-title">KYC Verification</span>
+                        </span>
+                    </li>
+                    <li class="selected">
+                        <span class="step">
+                            <span class="step-title">Additional Docs</span>
+                        </span>
+                    </li>
+                    <li class="current">
+                        <span class="step">
+                            <span class="step-title">Pre-Disbursal</span>
+                        </span>
+                    </li>
+                    <li>
+                        <span class="step">
+                            <span class="step-title">Select Course</span>
+                        </span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <div class="body-wrapper">
+        <div class="container">
+            <form action="" class="">
+                <div class="form-description">
+                    <img src="img/link-nach.svg" alt="">
+                    <h3>Link e-Nach</h3>
+                    <p class="mb-3">Please check your bank account details to link your bank to e-Nach.</p>
+                </div>
+                <div class="form-group icon-group">
+                    <span class="icon">
+                        <img src="img/bank-icon.svg" alt="">
+                    </span>
+                    <input type="text" class="form-control" value="Axis Bank">
+                    <label for="" class="placeholder">Bank Name</label>
+                </div>
+                <div class="form-group icon-group">
+                    <span class="icon">
+                        <img src="img/bank-icon.svg" alt="">
+                    </span>
+                    <input type="text" class="form-control" value="001235633451">
+                    <label for="" class="placeholder">Account Number</label>
+                </div>
+                <div class="form-group icon-group">
+                    <span class="icon">
+                        <img src="img/admin.svg" alt="">
+                    </span>
+                    <input type="text" class="form-control" value="Apoorv Garg">
+                    <label for="" class="placeholder">Bank Holder Name</label>
+                </div>
+                <div class="form-group icon-group">
+                    <span class="icon">
+                        <img src="img/bank-icon.svg" alt="">
+                    </span>
+                    <input type="text" class="form-control" value="Axis00431">
+                    <label for="" class="placeholder">IFSC Code</label>
+                </div>
+                <div class="form-group text-right">
+                    <a href="javascript:void(0)" data-toggle="modal" data-target="#eNachModal" class="btn btn-primary mt-3 mb-2">Confirm <img src="img/arrow.svg" alt=""></a>
+                </div>   
+            </form>
+        </div>
+    </div>
+    <div class="modal fade" id="eNachModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body text-center">
+                    <img src="img/nach-confirmation.svg" alt="" class="mb-3">
+                    <p><strong>Are your bank details showed correct in the form below?</strong></p>
+                    <div class="btn-wrapper">
+                        <a href="e-loan-agreement.html" class="btn btn-secondary">No, Edit Details</a>
+                        <a href="e-loan-agreement.html" class="btn btn-primary">Yes, Proceed</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery-3.2.1.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

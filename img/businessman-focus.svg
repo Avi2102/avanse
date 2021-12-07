@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="22.212" viewBox="0 0 18 22.212">
+    <defs>
+        <style>
+            .cls-1{fill:#00b3b5}
+        </style>
+    </defs>
+    <g id="businessman" transform="translate(-48.547)">
+        <g id="Group_8825" transform="translate(52.124)">
+            <g id="Group_8824">
+                <path id="Path_18796" d="M136.423 0a5.423 5.423 0 1 0 5.423 5.423A5.429 5.429 0 0 0 136.423 0zm0 9.544a4.121 4.121 0 1 1 4.121-4.121 4.126 4.126 0 0 1-4.121 4.121z" class="cls-1" transform="translate(-131)"/>
+            </g>
+        </g>
+        <path id="Path_18801" d="M263.3 349.351l2.789 4.019 2.508-4.019-2.508-.854z" class="cls-1" transform="translate(-208.453 -336)"/>
+        <g id="Group_8827" transform="translate(48.547 12.147)">
+            <g id="Group_8826">
+                <path id="Path_18797" d="M66.125 287.287A8.585 8.585 0 0 0 57.616 280h-.169a8.578 8.578 0 0 0-8.478 7.287l-.422 2.778h18zm-9.225 1.476h-6.839l.195-1.281a7.273 7.273 0 0 1 4.285-5.574l2.359 3.642zm-1.078-7.277a7.269 7.269 0 0 1 1.629-.185h.169a7.364 7.364 0 0 1 1.657.189l-1.726 2.669zm2.379 7.277v-3.213l2.353-3.638a7.262 7.262 0 0 1 4.287 5.57l.195 1.281z" class="cls-1" transform="translate(-48.547 -280)"/>
+            </g>
+        </g>
+    </g>
+</svg>

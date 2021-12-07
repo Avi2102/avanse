@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.519" height="29.78" viewBox="0 0 30.519 29.78">
+    <defs>
+        <style>
+            .cls-2{fill:#168794}.cls-3{fill:#00b3b5}.cls-4{fill:#e9eef2}.cls-5{fill:#ffd064}.cls-7{fill:#dadcde}
+        </style>
+    </defs>
+    <g id="school_2_" transform="translate(-16 -16.729)">
+        <path id="Path_18712" fill="#ffb632" d="M259.56 26.967l-3.56-.593V24l3.561.593z" transform="translate(-224.74 -6.911)"/>
+        <path id="Path_18713" d="M248.509 21.365a.481.481 0 0 1-.509-.447v-4.471a.513.513 0 0 1 1.017 0v4.471a.481.481 0 0 1-.508.447z" class="cls-2" transform="translate(-217.249 .729)"/>
+        <path id="Path_18714" d="M179.19 113.433H168V92.069L173.6 88l5.6 4.069z" class="cls-3" transform="translate(-142.336 -67.432)"/>
+        <circle id="Ellipse_490" cx="2.535" cy="2.535" r="2.535" class="cls-4" transform="translate(28.823 24.756)"/>
+        <path id="Path_18715" d="M344 152h8.138v21.363H344z" class="cls-3" transform="translate(-307.145 -127.363)"/>
+        <path id="Path_18717" d="M200 272h7.121v2.035H200z" class="cls-5" transform="translate(-172.301 -239.733)"/>
+        <path id="Path_18718" d="M211.052 344a3.052 3.052 0 0 1 3.052 3.052v6.1H208v-6.1a3.052 3.052 0 0 1 3.052-3.052z" class="cls-5" transform="translate(-179.792 -307.156)"/>
+        <path id="Path_18719" fill="#fec10d" d="M259.052 347.052v6.1H256V344a3.052 3.052 0 0 1 3.052 3.052z" transform="translate(-224.74 -307.156)"/>
+        <path id="Path_18720" d="M40 152h8.138v21.363H40z" class="cls-3" transform="translate(-22.474 -127.363)"/>
+        <path id="Path_18721" d="M80 192h3.052v4.069H80z" class="cls-4" transform="translate(-59.931 -164.82)"/>
+        <path id="Path_18722" d="M68.578 249.017h-4.069a.509.509 0 0 1 0-1.017h4.069a.509.509 0 0 1 0 1.017z" class="cls-2" transform="translate(-44.948 -217.259)"/>
+        <path id="Path_18723" d="M80 288h3.052v4.069H80z" class="cls-7" transform="translate(-59.931 -254.716)"/>
+        <path id="Path_18724" d="M68.578 345.017h-4.069a.509.509 0 1 1 0-1.017h4.069a.509.509 0 1 1 0 1.017z" class="cls-2" transform="translate(-44.948 -307.156)"/>
+        <path id="Path_18725" d="M80 384h3.052v4.069H80z" class="cls-4" transform="translate(-59.931 -344.612)"/>
+        <path id="Path_18726" d="M68.578 441.017h-4.069a.509.509 0 1 1 0-1.017h4.069a.509.509 0 1 1 0 1.017z" class="cls-2" transform="translate(-44.948 -397.052)"/>
+        <path id="Path_18727" d="M384 192h3.052v4.069H384z" class="cls-4" transform="translate(-344.602 -164.82)"/>
+        <path id="Path_18728" d="M372.578 249.017h-4.069a.509.509 0 1 1 0-1.017h4.069a.509.509 0 0 1 0 1.017z" class="cls-2" transform="translate(-329.619 -217.259)"/>
+        <path id="Path_18729" d="M384 288h3.052v4.069H384z" class="cls-7" transform="translate(-344.602 -254.716)"/>
+        <path id="Path_18730" d="M372.578 345.017h-4.069a.509.509 0 1 1 0-1.017h4.069a.509.509 0 0 1 0 1.017z" class="cls-2" transform="translate(-329.619 -307.156)"/>
+        <path id="Path_18731" d="M384 384h3.052v4.069H384z" class="cls-4" transform="translate(-344.602 -344.612)"/>
+        <g id="Group_8765" transform="translate(16 20.568)">
+            <path id="Path_18732" d="M372.578 441.017h-4.069a.509.509 0 1 1 0-1.017h4.069a.509.509 0 1 1 0 1.017z" class="cls-2" transform="translate(-345.619 -417.619)"/>
+            <path id="Path_18733" d="M46.01 481.017h-29.5a.509.509 0 1 1 0-1.017h29.5a.509.509 0 1 1 0 1.017z" class="cls-2" transform="translate(-16 -455.076)"/>
+            <path id="Path_18734" d="M16.509 152a.509.509 0 0 0 0 1.017h9.156V152z" class="cls-2" transform="translate(-16 -147.931)"/>
+            <path id="Path_18735" d="M353.156 152H344v1.017h9.156a.509.509 0 1 0 0-1.017z" class="cls-2" transform="translate(-323.145 -147.931)"/>
+            <path id="Path_18736" d="M171.7 93.086a.507.507 0 0 1-.3-.1l-5.3-3.852-5.3 3.852a.509.509 0 1 1-.6-.823l5.6-4.069a.509.509 0 0 1 .6 0l5.6 4.069a.509.509 0 0 1-.3.92z" class="cls-2" transform="translate(-150.843 -87.999)"/>
+        </g>
+    </g>
+</svg>

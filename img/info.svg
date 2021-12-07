@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <style>
+            .cls-2{fill:#168794}
+        </style>
+    </defs>
+    <g id="Group_9014" transform="translate(-313 -283.664)">
+        <circle id="Ellipse_536" cx="10" cy="10" r="10" fill="rgba(22,135,148,0.15)" transform="translate(313 283.664)"/>
+        <g id="Group_9009" transform="translate(321.938 287.469)">
+            <path id="Rectangle_2541" d="M0 0H2V7H0z" class="cls-2" transform="translate(.062 4.195)"/>
+            <path id="Rectangle_2542" d="M0 0H2V2H0z" class="cls-2" transform="translate(.062 .195)"/>
+        </g>
+    </g>
+</svg>

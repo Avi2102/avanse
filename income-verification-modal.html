@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" class="height100">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Income Verification Manual - Avanse</title>
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="height100">
+    <header class="main-header">
+        <div class="container">
+            <div class="top-pane">
+                <div class="back-arrow">
+                    <a href="income-verification-statement2.html">
+                        <img src="img/back-arrow.svg" alt="">
+                    </a>
+                </div>
+                <a href="index.html" class="logo"><img src="img/logo.png" alt=""></a>
+                <a href="no-queries.html" class="contact-icon"><img src="img/call.svg" alt=""></a>
+            </div>
+            <div class="progress-step">
+                <ul>
+                    <li class="selected">
+                        <span class="step">
+                            <span class="step-title">Check  Eligibility</span>
+                        </span>
+                    </li>
+                    <li class="selected">
+                        <span class="step">
+                            <span class="step-title">Applicant Details</span>
+                        </span>
+                    </li>
+                    <li class="current">
+                        <span class="step">
+                            <span class="step-title">Income Verification</span>
+                        </span>
+                    </li>
+                    <li>
+                        <span class="step">
+                            <span class="step-title">KYC Verification</span>
+                        </span>
+                    </li>
+                    <li>
+                        <span class="step">
+                            <span class="step-title">Select Course</span>
+                        </span>
+                    </li>
+                    <li>
+                        <span class="step">
+                            <span class="step-title">Select Course</span>
+                        </span>
+                    </li>
+                    <li>
+                        <span class="step">
+                            <span class="step-title">Select Course</span>
+                        </span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <div class="body-container height100 fixed-pane">
+        <div class="container">
+            <form action="">
+                <div class="form-description">
+                    <img src="img/bank.svg" alt="">
+                    <h3>Manual Upload Bank Statement</h3>
+                    <p class="mb-3">Upload bank statements PDF document for the last 6 months.</p>
+                </div>
+                <div class="form-group text-center">
+                    <div class="uploaded-box mb-3">
+                        <img src="img/pdf.svg" alt="">
+                        <div class="file-name">Axis_Bank_Statement.PDF</div>
+                        <span class="close"><img src="img/close-red.svg" alt=""></span>
+                    </div>
+                    <span class="help-text">(Maximum size 5 MB. PDF format only)</span>
+                </div>
+                <div class="form-group text-right form-btn">
+                    <a href="income-verification-modal.html" class="btn btn-primary">Verify <img src="img/arrow.svg" alt="" width="17"></a>
+                </div>                
+            </form>
+            <div class="otp-modal income-verification-modal">
+                <div class="otp-modal-container">
+                    <div class="otp-modal-header">
+                        <a href="income-verification-statement2.html" class="modal-close close-x">
+                            <img src="img/close.svg" alt="">
+                        </a>
+                        <h3>Netbanking Verification</h3>
+                        <img src="img/netbanking-verification.svg" alt="" class="mt-4 mb-4">
+                        <h4 class="mb-5">Your Income Statement Verified Successfully!</h4>
+                    </div>
+                    <div class="otp-modal-footer">
+                        <a href="v-kyc-failed.html" class="btn btn-primary btn-full-width mb-3">Continue <img src="img/arrow.svg" alt=""></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery-3.2.1.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

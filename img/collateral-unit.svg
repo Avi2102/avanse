@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.015" height="18.624" viewBox="0 0 20.015 18.624">
+    <defs>
+        <style>
+            .cls-2{fill:#414042}
+        </style>
+    </defs>
+    <g id="Group_9163" transform="translate(-27 -365)">
+        <path id="Fill_1" fill="#e4e3e5" d="M20.015 1.692c0 .935-4.481 1.692-10.008 1.692S0 2.627 0 1.692 4.481 0 10.007 0s10.008.758 10.008 1.692" transform="translate(27 380.239)"/>
+        <g id="selection" transform="translate(29.27 365.276)">
+            <g id="Group_9026">
+                <path id="Path_19220" d="M15.943 3.326a.408.408 0 0 0 .4-.4V.4a.4.4 0 0 0-.4-.4h-2.52a.4.4 0 0 0-.4.4v.877h-9.7V.4a.408.408 0 0 0-.4-.4H.4a.409.409 0 0 0-.4.4v2.52a.4.4 0 0 0 .4.4h.877v9.7H.4a.408.408 0 0 0-.4.4v2.52a.409.409 0 0 0 .4.4h2.52a.4.4 0 0 0 .4-.4v-.877h9.7v.877a.408.408 0 0 0 .4.4h2.52a.409.409 0 0 0 .4-.4v-2.52a.4.4 0 0 0-.4-.4h-.877v-9.7zM.8 2.524V.8h1.724v1.724zm1.724 13.022H.8v-1.723h1.724zm10.5-2.124v.841h-9.7v-.841a.4.4 0 0 0-.4-.4h-.84v-9.7h.841a.4.4 0 0 0 .4-.4v-.838h9.7v.841a.4.4 0 0 0 .4.4h.841v9.7h-.841a.4.4 0 0 0-.403.398zm2.524.4v1.723h-1.725v-1.722zm-1.723-11.3V.8h1.723v1.724z" class="cls-2" transform="translate(-.27 -.276)"/>
+                <g id="Group_9027" transform="translate(.674 1.411)">
+                    <rect id="Rectangle_2543" width=".79" height="4.742" class="cls-2" rx=".395" transform="rotate(39 -2.288 11.835)"/>
+                    <rect id="Rectangle_2544" width=".79" height="6.742" class="cls-2" rx=".395" transform="rotate(39 -1.202 14.962)"/>
+                    <rect id="Rectangle_2545" width=".79" height="4.742" class="cls-2" rx=".395" transform="rotate(39 -2.94 17.088)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
